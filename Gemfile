@@ -9,6 +9,9 @@ gem 'rails', '4.2.5'
 
 gem 'bootstrap-sass', '~> 3.3.6'
 
+gem 'carrierwave', '0.10.0'
+gem 'mini_magick', '3.8.0'
+
 gem 'autoprefixer-rails'
 
 gem 'sass-rails', '~> 5.0'
