@@ -16,6 +16,8 @@ gem 'bootstrap-will_paginate', '0.0.10'
 gem 'autoprefixer-rails'
 gem 'bcrypt', '3.1.7'
 gem 'fog', '1.23.0'
+gem 'net-ssh'
+
 
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
